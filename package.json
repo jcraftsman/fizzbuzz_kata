@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz_kata",
+  "version": "1.0.0",
+  "description": "### Requirements - Display Fizz when the given number is dividable by 3 - Display Fizz when the given number is dividable by 5 - Display Fizz when the given number is dividable by both 3 and 5 - Otherwise, it will display the given number",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.5.3",
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcraftsman/fizzbuzz_kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcraftsman/fizzbuzz_kata/issues"
+  },
+  "homepage": "https://github.com/jcraftsman/fizzbuzz_kata#readme"
+}

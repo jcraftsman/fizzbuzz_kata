@@ -8,12 +8,13 @@
 
 ### Before starting
 1. Install [NodeJs](https://nodejs.org/en/)
-2. Install jasmine.
-To install jasmine in global mode, just execute this command :
+2. Clone this git repository
+3. Install node package and its dependencies (i.e. jasmine):
 ```
-npm install -g jasmine
+npm install
 ```
-### Initialize jasmine
+3. Run tests :
 ```
-jasmine init
+./node_modules/.bin/jasmine-node --verbose spec
 ```
+ 
